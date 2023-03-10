@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="tab_description">Tabs are Business, Entertainment, General, Health, Science, Sports, Technology</string>
+    <string name="it_s_image">it\'s image</string>
+    <string name="search">Search</string>
+    <string name="continue_reading">Continue Reading</string>
+    <string name="author_name">Author: %s</string>
+    <string name="source_name">Source: %s</string>
+    <string name="content_image">Content image</string>
+</resources>
